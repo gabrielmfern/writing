@@ -1,17 +1,14 @@
 # My first conference
 
-I've always considered myself an extrovert and I've always loved needing out with anyone that would listen to me, so I've been loving watching the amazing talks for so many conferences recorded on YouTube. One of my top favorite ones is Dan Abramov's [The wet codebase](https://youtu.be/17KCHwOwgms?si=aP_G9SqSxxAz1xl7).
-
+I've always considered myself an extrovert and I've always loved nerding out with anyone that would listen to me, so I've been loving watching the amazing talks for so many conferences recorded on YouTube. One of my top favorite ones is Dan Abramov's [The wet codebase](https://youtu.be/17KCHwOwgms?si=aP_G9SqSxxAz1xl7).
 
 But, I've never really had the chance to attend any conference, not even in Brazil. Mostly because I grew up in a very small city of Pernambuco called Venturosa, in a low-income family that didn't get a whole lot of opportunities like this.
-
-That all ended with me joining Resend. Resend does a whole lot of conferences, particularly because Zeno (one of the co-founders) is a huge talk nerd, and a lot of sponsorships too. One of them was Front in Floripa. One of the most amazing conferences that we have around here in Brazil, (monumental shoutout to (Diogo Moretti)[https://x.com/diogomoretti_]).
 
 At first, I was invited to [CodeCon](https://codecon.dev/) that happened in Curitiba, but couldn't really attend at the time. But then, I heard about Front in Floripa, and couldn't help but think it was time. With no doubts in mind I asked if I could come, and with their thumbs up, started buying some flights.
 
 ## The day before
 
-The day before the conference, which was a Friday, they planned for us all (Carolina, Carol, [Isabela](https://x.com/isabellaaq2), (João)[https://x.com/jopcmelo], [Lucas](https://x.com/thewizardlucas), (Zeno)[https://x.com/zenorocha], [and me!](https://x.com/gabrielmfern)) to have dinner together at a beautiful place by the sea called [Rosso](https://share.google/71hHgTzjbCE8UPngW).
+The day before the conference, which was a Friday, they planned for us all (Carolina, Carol, [Isabela](https://x.com/isabellaaq2), [João](https://x.com/jopcmelo), [Lucas](https://x.com/thewizardlucas), [Zeno](https://x.com/zenorocha), [and me!](https://x.com/gabrielmfern)) to have dinner together at a beautiful place by the sea called [Rosso](https://share.google/71hHgTzjbCE8UPngW).
 
 There I ate some amazing seafood (though I was pretty conservative with the dishes lol), and appreciated the beautiful sight that was the sea beside it. The sea was the part that got me in the most awe, as a Christian, my understanding of this could only take me into the position of worship of God, truly.
 
@@ -19,7 +16,7 @@ There I ate some amazing seafood (though I was pretty conservative with the dish
     <img height="400" src="./assets/restaurant-rosso.jpg" />
 </p>
 
-Carol and Zeno were also generous enough to invite my wife into the dinner and she could meet everyone which I really loved.
+Carol and Zeno were also generous enough to invite my wife to the dinner and she could meet everyone which I really loved.
 
 ## The people
 
@@ -35,17 +32,17 @@ Also forgot to take a picture with him. D:
 
 ### Lucas da Costa
 
-Lucas was actually one of the most popular people around Front In Floripa, which was kind of crazy, he also works at Resend, like João and me, and I was really happy to get to know him a bit more. His girlfriend Gabriela was also very nice and also went there.
+Lucas was actually one of the most popular people around Front In Floripa, which was kind of crazy, he also works at Resend, like João and me, and I was really happy to get to know him a bit more. His girlfriend Gabriela was also very nice and went there.
 
-We needed out about a lot of stuff like neovim, math, and some problems around programming like how every solution we pick is actually bad, how we repeat ourselves throught history and generations and a lot more stuff. He also promised to get me a book about math for the Offsite we're having and I'll be waiting!
+We nerded out about a lot of stuff like neovim, math, and some problems around programming like how every solution we pick is actually bad, how we repeat ourselves throughout history and generations and a lot more stuff. He also promised to get me a book about math for the Offsite we're having and I'll be waiting!
 
 Unfortunately forgot to take a picture with him too :(
 
 ### Rafael Camargo
 
-He was actually one of the speakers, I was extremely impress by everything around him, and he's actually really young (like me) so it's much easier to relate in a conversation too. I talked to him about his talk, which lead us to discussing his creation of a library specific to making slides in React that he used to make the talk, which sounds monumentally cool!
+He was actually one of the speakers, I was extremely impressed by everything around him, and he's actually really young (like me), so it's much easier to relate in a conversation too. I talked to him about his talk, which led us to discussing his creation of a library specific to making slides in React that he used to make the talk, which sounds monumentally cool!
 
-That also led me to sharing the stuff that I've been having fun doing with zig playing around with terminal apps, and making a GUI framework.
+That also led me to sharing the stuff that I've been having fun doing with Zig playing around with terminal apps, and making a GUI framework.
 
 Also took a picture with him:
 
@@ -55,7 +52,7 @@ Also took a picture with him:
 
 ### Erasmo Hernández
 
-He was also one of the speakers, I wasn't able to catch his talk, but I'm sure it was great! We talked about Windsurf and particularly, about the state of Venezuela where he was born and his family lives in. It was really great, and he's was also very nice.
+He was also one of the speakers, I wasn't able to catch his talk, but I'm sure it was great! We talked about Windsurf and particularly, about the state of Venezuela where he was born and his family lives in. It was really great, and he was also very nice.
 
 Here's a picture I took with him:
 
@@ -65,7 +62,7 @@ Here's a picture I took with him:
 
 ### Guilherme Rodz
 
-I love input-otp and the work and love he put into it. He's really nice, and I only overheard a bit of him talking about what he wants for his future, and how his life is in a place the he really likes right now. Also got a follow from him on Twitter, which was awesome!
+I love input-otp and the work and love he put into it. He's really nice, and I only overheard a bit of him talking about what he wants for his future, and how his life is in a place that he really likes right now. Also got a follow from him on Twitter, which was awesome!
 
 Here's a picture I took with him:
 
@@ -73,7 +70,7 @@ Here's a picture I took with him:
     <img height="400" src="./assets/guilherme-rodz.jpg" />
 </p>
 
-## Mario Yuri
+### Mario Yuri
 
 I wasn't able to talk to him a whole lot, but he's a really talented guy, around my age too, and had a lot of fun talking to him back in a happy hour Resend did in São Paulo.
 
@@ -99,7 +96,7 @@ Wouldn't miss a picture with him:
     <img height="400" src="./assets/bye-bye-floripa.png" />
 </p>
 
-What ended up being of this was awesome. It was also so much better than I thought and I loved talking to everyone there. Thank you to Resend, to the organizers, to the people that nerded out with me and the people that heard me explaining what Resend was lol.
+What came everything around this was completely awesome. It was also so much better than I thought it would be, and I loved every moment of talking to everyone there. Thank you to Resend, to the organizers, to the people that nerded out with me and the people that heard me explaining what Resend was, too!
 
 I loved talking to everyone there, and if I didn't mention you specifically, it doesn't mean I didn't love talking to you too. :)
 
