@@ -19,7 +19,7 @@ There I ate some amazing seafood (though I was pretty conservative with the dish
     <tbody>
         <tr>
             <td>
-                <img height="400" style="border-radius:8px" src="./assets/restaurant-rosso.jpg" />
+                <img height="400" src="./assets/restaurant-rosso.jpg" />
             </td>
         </tr>
     </tbody>
@@ -59,7 +59,7 @@ Also took a picture with him:
     <tbody>
         <tr>
             <td>
-                <img height="400" style="border-radius:8px" src="./assets/rafael-camargo.jpg" />
+                <img height="400" src="./assets/rafael-camargo.jpg" />
             </td>
         </tr>
     </tbody>
@@ -75,7 +75,7 @@ Here's a picture I took with him:
     <tbody>
         <tr>
             <td>
-                <img height="400" style="border-radius:8px" src="./assets/erasmo-hernandez.jpg" />
+                <img height="400" src="./assets/erasmo-hernandez.jpg" />
             </td>
         </tr>
     </tbody>
@@ -91,7 +91,7 @@ Here's a picture I took with him:
     <tbody>
         <tr>
             <td>
-                <img height="400" style="border-radius:8px" src="./assets/guilherme-rodz.jpg" />
+                <img height="400" src="./assets/guilherme-rodz.jpg" />
             </td>
         </tr>
     </tbody>
@@ -107,7 +107,7 @@ Also took a picture with him:
     <tbody>
         <tr>
             <td>
-                <img height="400" style="border-radius:8px" src="./assets/mario-yuri.jpg" />
+                <img height="400" src="./assets/mario-yuri.jpg" />
             </td>
         </tr>
     </tbody>
@@ -123,7 +123,7 @@ Wouldn't miss a picture with him:
     <tbody>
         <tr>
             <td>
-                <img height="400" style="border-radius:8px" src="./assets/paulo-de-mitri.jpg" />
+                <img height="400" src="./assets/paulo-de-mitri.jpg" />
             </td>
         </tr>
     </tbody>
@@ -135,7 +135,7 @@ Wouldn't miss a picture with him:
     <tbody>
         <tr>
             <td>
-                <img height="400" style="border-radius:8px" src="./assets/bye-bye-floripa.png" />
+                <img height="400" src="./assets/bye-bye-floripa.png" />
             </td>
         </tr>
     </tbody>
@@ -151,7 +151,7 @@ Thanks for reading, and hope you have a great life! Here's me writing the conclu
     <tbody>
         <tr>
             <td>
-                <img height="400" style="border-radius:8px" src="./assets/coming-home.jpg" />
+                <img height="400" src="./assets/coming-home.jpg" />
             </td>
         </tr>
     </tbody>
