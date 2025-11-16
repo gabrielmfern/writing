@@ -15,15 +15,9 @@ The day before the conference, which was a Friday, they planned for us all (Caro
 
 There I ate some amazing seafood (though I was pretty conservative with the dishes lol), and appreciated the beautiful sight that was the sea beside it. The sea was the part that got me in the most awe, as a Christian, my understanding of this could only take me into the position of worship of God, truly.
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <img height="400" src="./assets/restaurant-rosso.jpg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p align="center">
+    <img height="400" src="./assets/restaurant-rosso.jpg" />
+</p>
 
 Carol and Zeno were also generous enough to invite my wife into the dinner and she could meet everyone which I really loved.
 
@@ -55,15 +49,9 @@ That also led me to sharing the stuff that I've been having fun doing with zig p
 
 Also took a picture with him:
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <img height="400" src="./assets/rafael-camargo.jpg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p align="center">
+    <img height="400" src="./assets/rafael-camargo.jpg" />
+</p>
 
 ### Erasmo Hernández
 
@@ -71,15 +59,9 @@ He was also one of the speakers, I wasn't able to catch his talk, but I'm sure i
 
 Here's a picture I took with him:
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <img height="400" src="./assets/erasmo-hernandez.jpg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p align="center">
+    <img height="400" src="./assets/erasmo-hernandez.jpg" />
+</p>
 
 ### Guilherme Rodz
 
@@ -87,15 +69,9 @@ I love input-otp and the work and love he put into it. He's really nice, and I o
 
 Here's a picture I took with him:
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <img height="400" src="./assets/guilherme-rodz.jpg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p align="center">
+    <img height="400" src="./assets/guilherme-rodz.jpg" />
+</p>
 
 ## Mario Yuri
 
@@ -103,15 +79,9 @@ I wasn't able to talk to him a whole lot, but he's a really talented guy, around
 
 Also took a picture with him:
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <img height="400" src="./assets/mario-yuri.jpg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p align="center">
+    <img height="400" src="./assets/mario-yuri.jpg" />
+</p>
 
 ### Paulo De Mitri
 
@@ -119,27 +89,15 @@ Paulo is a really awesome engineer that works at Vercel that I've been following
 
 Wouldn't miss a picture with him:
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <img height="400" src="./assets/paulo-de-mitri.jpg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p align="center">
+    <img height="400" src="./assets/paulo-de-mitri.jpg" />
+</p>
 
 ## Coming back
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <img height="400" src="./assets/bye-bye-floripa.png" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p align="center">
+    <img height="400" src="./assets/bye-bye-floripa.png" />
+</p>
 
 What ended up being of this was awesome. It was also so much better than I thought and I loved talking to everyone there. Thank you to Resend, to the organizers, to the people that nerded out with me and the people that heard me explaining what Resend was lol.
 
@@ -147,12 +105,6 @@ I loved talking to everyone there, and if I didn't mention you specifically, it 
 
 Thanks for reading, and hope you have a great life! Here's me writing the conclusion to this while in the bus back home:
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <img height="400" src="./assets/coming-home.jpg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p align="center">
+    <img height="400" src="./assets/coming-home.jpg" />
+</p>
