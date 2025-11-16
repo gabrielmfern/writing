@@ -20,11 +20,11 @@ Carol and Zeno were also generous enough to invite my wife to the dinner and she
 
 ## The people
 
-For me, the most important part of the conference was the people, travel is just the price, and talks are a good conversation starter.
+For me, the most important part of the conference was the people. Travel is just the price I have to pay to talk to them, and talks are the good conversation starters.
 
 ### João Melo
 
-I think I talked to him the most, he also works at Resend and is one of the coolest developers I know. He mentioned that one of his side projects was an app called Vein that actually has people paying for it, but he's thinking about discontinuing it. I also talked to him about the stuff I'm making with Zig and asked if he was down to build some of it with me, and he was! Never got to the part of someone saying "yes" lol.
+I think I talked to him the most, he also works at Resend and is one of the coolest developers I know. He mentioned that one of his side projects was an app called Vein that actually has people paying for it, but he's thinking about discontinuing it. I also talked to him about the stuff I'm making with Zig and asked if he was down to build some of it with me, and he was! Never got to the part of someone actually agreeing to do this crazy stuff with me! LOL
 
 One really cool thing that happened was that we noticed a UI bug in the broadcasts editor in the video that was playing for the booth, and we fixed it together.
 
